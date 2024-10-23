@@ -1,0 +1,4 @@
+.env
+legalai
+.streamlit/secrets.toml
+
